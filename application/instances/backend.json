@@ -24,7 +24,7 @@
    "release": {
     "strategy": "RollingUpdate",
     "build": {
-     "artifactory":"default",
+     "artifactory":"",
      "name":"springbootsample-springboot-backend"
    
     }
